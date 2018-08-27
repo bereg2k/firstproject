@@ -40,5 +40,6 @@ public class Base {
             System.out.printf("%.4f / %.4f = %.4f\n", n1, n2, div);
         }
         System.out.println("Thank you for using our amazing calculator! Bye!");
+        scanner.close();
     }
 }
