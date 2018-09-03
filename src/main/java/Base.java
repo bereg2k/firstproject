@@ -1,9 +1,15 @@
 import java.util.Scanner;
 
 /**
- * Basic arithmetic calculator program.
+ * 1. Basic arithmetic calculator program.
  * User enters 2 numbers with a floating point (4 decimal digits max) and one of the 4 basic arithmetic operations.
- * The program performs a chosen operation on the entered numbers.
+ * Task: The program performs a chosen operation on the entered numbers.
+ *
+ * 2. The longest element in a String Array.
+ * User enters the array's length.
+ * User enters the array's elements, one by one.
+ * Task: find the longest element in array and print it and its length.
+ * If there's more than one longest element, the program prints all of them with their length.
  *
  * @author Oleg Berezhnoy
  */
